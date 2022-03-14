@@ -29,7 +29,7 @@ spring:
     host: smtp.163.com
     port: 465
     username: pumpkin9841@163.com
-    password: ZXOIAGBSCZPTDBTQ
+    password: #授权码
     protocol: smtps
 
 mybatis:
